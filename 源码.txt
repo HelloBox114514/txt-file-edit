@@ -1,3 +1,5 @@
+#V0.1
+#注，此项目使用python编写
 pl=input("请输入txt地址,地址必须存在且文件已创建\n提示：F:/test.txt\n")
 print("请选择模式\n[1]阅读txt\n[2]编辑\n")
 d=input()
